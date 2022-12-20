@@ -243,6 +243,10 @@ details[open] summary~* {
   }
 }
 
+.card-text pre p {
+  margin: 5px 5px;
+}
+
 .card-text p {
   margin: 5px 5px;
 }
